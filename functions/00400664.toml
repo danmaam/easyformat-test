@@ -4,7 +4,6 @@ size = 0x89
 last_change = 2023-07-26T11:51:43.168429Z
 
 [header]
-last_change = 2023-07-26T11:51:43.164429Z
 name = "authenticate"
 addr = 0x400664
 type = "_BOOL8"
